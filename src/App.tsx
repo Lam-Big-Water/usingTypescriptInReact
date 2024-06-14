@@ -1,3 +1,4 @@
+
 import { Routes, Route, Link } from "react-router-dom";
 import Basic from "./Basic";
 import Local from "./Local";
@@ -20,4 +21,5 @@ const App = () => {
     </div>
   );
 };
+
 export default App;
